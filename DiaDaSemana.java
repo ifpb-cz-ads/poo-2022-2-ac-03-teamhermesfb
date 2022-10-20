@@ -6,7 +6,7 @@
  * @version 19/10/2022
  */
 
-public class diaDaSemana
+public class DiaDaSemana
 {
     public static void main(String[] args){
         int dia = 6;
