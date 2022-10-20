@@ -6,7 +6,7 @@
  * @version 19/10/2022
  */
 
-public class verificarVoto
+public class VerificarVoto
 {
     public static void main(String[] args){
         int idade = 19;
